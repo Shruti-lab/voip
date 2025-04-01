@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VoIPDialer</string>
+    <string name="call_string">Call</string>
+    <string name="contact1">Contact1</string>
+    <string name="contact2">Contact2</string>
+</resources>
